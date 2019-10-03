@@ -3,7 +3,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-Link to app demo: file:///Users/naldojozze/Downloads/Oct%202,%202019%2010_12%20PM.webm
+[Link to app demo](file:///Users/naldojozze/Downloads/Oct%202,%202019%2010_12%20PM.webm)
 
 # How to Use
 Use node to run this program. Use node liri.js then run one of the following comands, then add search text:
