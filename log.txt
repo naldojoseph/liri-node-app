@@ -148,3 +148,245 @@ Language: English, Italian, Japanese, Yiddish
 Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
 Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
 *****************************
+**********MOVIE INFO*********
+Title: Cars
+Release Year: 2006
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 75%
+Country of Production: USA
+Language: English, Italian, Japanese, Yiddish
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Record Junkee
+Venue Location: Sheffield
+Date of the Event: 2019-10-03T19:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Wheatsheaf
+Venue Location: Oxford
+Date of the Event: 2019-10-09T19:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Moon
+Venue Location: Cardiff
+Date of the Event: 2019-10-10T19:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The Hope and Ruin
+Venue Location: Brighton
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Elsewhere
+Venue Location: Margate
+Date of the Event: 2019-10-19T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Colours Hoxton
+Venue Location: London
+Date of the Event: 2019-11-13T20:00:00
+*****************************
+**********MOVIE INFO*********
+Title: Cars
+Release Year: 2006
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 75%
+Country of Production: USA
+Language: English, Italian, Japanese, Yiddish
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Record Junkee
+Venue Location: Sheffield
+Date of the Event: 2019-10-03T19:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Wheatsheaf
+Venue Location: Oxford
+Date of the Event: 2019-10-09T19:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Moon
+Venue Location: Cardiff
+Date of the Event: 2019-10-10T19:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The Hope and Ruin
+Venue Location: Brighton
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Elsewhere
+Venue Location: Margate
+Date of the Event: 2019-10-19T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Colours Hoxton
+Venue Location: London
+Date of the Event: 2019-11-13T20:00:00
+*****************************
+**********MOVIE INFO*********
+Title: Cars
+Release Year: 2006
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 75%
+Country of Production: USA
+Language: English, Italian, Japanese, Yiddish
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+*****************************
+**********SONG INFO*********
+0
+song name: Gravity
+preview song: https://p.scdn.co/mp3-preview/c0c76e643625fbad2c3b21b1407a2964fb14ee47?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Continuum
+artist(s): John Mayer
+*****************************
+**********SONG INFO*********
+1
+song name: Gravity
+preview song: https://p.scdn.co/mp3-preview/63322f828978bc6b13af66a3f27724cd336ae14e?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Little Voice
+artist(s): Sara Bareilles
+*****************************
+**********SONG INFO*********
+2
+song name: Forget Me Thots
+preview song: https://p.scdn.co/mp3-preview/0ed78f9847ad702e44028c50ed91f3becc176c3c?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Yung Gravity - EP
+artist(s): Yung Gravy
+*****************************
+**********SONG INFO*********
+3
+song name: Impossible - Main
+preview song: null
+album: No Gravity
+artist(s): Shontelle
+*****************************
+**********SONG INFO*********
+4
+song name: Just For A Moment (feat. Iselin)
+preview song: null
+album: Gravity Pt. 1
+artist(s): Gryffin
+*****************************
+**********SONG INFO*********
+5
+song name: Bye Bye (feat. Ivy Adara)
+preview song: null
+album: Gravity Pt. 1
+artist(s): Gryffin
+*****************************
+**********SONG INFO*********
+6
+song name: Gravity
+preview song: https://p.scdn.co/mp3-preview/b9f466414acbd7370aca3a84b568a28c8a7320a9?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: 38 Baby
+artist(s): YoungBoy Never Broke Again
+*****************************
+**********SONG INFO*********
+7
+song name: Nobody Compares To You (feat. Katie Pearlman)
+preview song: null
+album: Gravity Pt. 1
+artist(s): Gryffin
+*****************************
+**********SONG INFO*********
+8
+song name: Gravity
+preview song: https://p.scdn.co/mp3-preview/d42281cbe0d3538e78ac4a8c97129d0e244a0de0?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: F.E.A.R.
+artist(s): Papa Roach
+*****************************
+**********SONG INFO*********
+9
+song name: Gravity
+preview song: https://p.scdn.co/mp3-preview/832a93a2cb46eda00a6157d114d35947b7b870ee?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: End Credits
+artist(s): EDEN
+*****************************
+**********SONG INFO*********
+10
+song name: Yung Gravity
+preview song: https://p.scdn.co/mp3-preview/ac38cfbd53d6bee1fdff9900c84e0a501fb11e48?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Yung Gravity
+artist(s): Yung Gravy
+*****************************
+**********SONG INFO*********
+11
+song name: Defying Gravity - From "Wicked" Original Broadway Cast Recording/2003
+preview song: null
+album: Wicked
+artist(s): Stephen Schwartz
+*****************************
+**********SONG INFO*********
+12
+song name: Gravity Rides Everything
+preview song: https://p.scdn.co/mp3-preview/413aa141710e082f9a9ea7d8693fc0e877637809?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: The Moon & Antarctica
+artist(s): Modest Mouse
+*****************************
+**********SONG INFO*********
+13
+song name: Letting You Go
+preview song: null
+album: Gravity
+artist(s): Bullet For My Valentine
+*****************************
+**********SONG INFO*********
+14
+song name: Flex Season
+preview song: https://p.scdn.co/mp3-preview/1e1511c81f584ff1be6f30b0f7717f5ba2cd591f?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Yung Gravity - EP
+artist(s): Yung Gravy
+*****************************
+**********SONG INFO*********
+15
+song name: Escape Gravity
+preview song: https://p.scdn.co/mp3-preview/287ba848e5f64a635326e5c0c0c0bfb1b6c89aeb?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Escape Gravity
+artist(s): Juni Tinley
+*****************************
+**********SONG INFO*********
+16
+song name: Gravity Of Discomfort
+preview song: https://p.scdn.co/mp3-preview/1c710b05619af3d0d33ca7e6105cb870e540aa32?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: The Nothing
+artist(s): Korn
+*****************************
+**********SONG INFO*********
+17
+song name: Gravity
+preview song: https://p.scdn.co/mp3-preview/b8f8d2e0af030172afeec921af7d9df9abc7447a?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Gravity
+artist(s): Timeflies
+*****************************
+**********SONG INFO*********
+18
+song name: Over It
+preview song: null
+album: Gravity
+artist(s): Bullet For My Valentine
+*****************************
+**********SONG INFO*********
+19
+song name: Gravity
+preview song: null
+album: Deadweight
+artist(s): Wage War
+*****************************
