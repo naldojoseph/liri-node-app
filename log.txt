@@ -1,0 +1,150 @@
+**********SONG INFO*********
+0
+song name: Truth Hurts
+preview song: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Cuz I Love You (Deluxe)
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+1
+song name: i
+preview song: https://p.scdn.co/mp3-preview/a393c84f01ff692b048e5f06479b3f827dd7f5c0?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Shelby
+artist(s): Lil Skies
+*****************************
+**********SONG INFO*********
+2
+song name: I Forgot That You Existed
+preview song: null
+album: Lover
+artist(s): Taylor Swift
+*****************************
+**********SONG INFO*********
+3
+song name: I Fall Apart
+preview song: null
+album: Stoney (Deluxe)
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+4
+song name: Dance Monkey
+preview song: https://p.scdn.co/mp3-preview/535ffea66207a0fc07d57fbaea7b5594be797f9b?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: The Kids Are Coming
+artist(s): Tones and I
+*****************************
+**********SONG INFO*********
+5
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+6
+song name: Murder On My Mind
+preview song: https://p.scdn.co/mp3-preview/b681a45cf2f796326f42bed43a6e419cd88ef92c?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: I AM YOU
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+7
+song name: I Don't Care (with Justin Bieber)
+preview song: https://p.scdn.co/mp3-preview/40d2bf0a16b4a4c7e5747a57943f9c0bbf5bc5ab?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: I Don't Care (with Justin Bieber)
+artist(s): Ed Sheeran
+*****************************
+**********SONG INFO*********
+8
+song name: I Think He Knows
+preview song: null
+album: Lover
+artist(s): Taylor Swift
+*****************************
+**********SONG INFO*********
+9
+song name: If I Can't Have You
+preview song: null
+album: If I Can't Have You
+artist(s): Shawn Mendes
+*****************************
+**********SONG INFO*********
+10
+song name: I Like It
+preview song: https://p.scdn.co/mp3-preview/0f8734f51bb0a419959fdad3a0852621f9e6bc89?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+11
+song name: a lot
+preview song: https://p.scdn.co/mp3-preview/0ff1fadf009e81e7d80912c2372c7381a49e5863?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: i am > i was
+artist(s): 21 Savage
+*****************************
+**********SONG INFO*********
+12
+song name: I Know
+preview song: null
+album: Hollywood's Bleeding
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+13
+song name: Whiskey Glasses
+preview song: https://p.scdn.co/mp3-preview/e30ac4e29a82422b9fa8454ddde40af92c63c709?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: If I Know Me
+artist(s): Morgan Wallen
+*****************************
+**********SONG INFO*********
+14
+song name: Juice
+preview song: https://p.scdn.co/mp3-preview/7ca1598cec36c49118562b02491b9a030e233d88?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Cuz I Love You
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+15
+song name: The Less I Know The Better
+preview song: null
+album: Currents
+artist(s): Tame Impala
+*****************************
+**********SONG INFO*********
+16
+song name: 'Till I Collapse
+preview song: null
+album: The Eminem Show
+artist(s): Eminem
+*****************************
+**********SONG INFO*********
+17
+song name: I Warned Myself
+preview song: https://p.scdn.co/mp3-preview/b4185f469a9b8997d96e5835320cdb91fe89d724?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: I Warned Myself
+artist(s): Charlie Puth
+*****************************
+**********SONG INFO*********
+18
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: Pray for the Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+19
+song name: I Like Me Better
+preview song: https://p.scdn.co/mp3-preview/fa069a3be2d69aab5378b55f6c66d8b3eff1a6d3?cid=a093ee4fb1a54b929a0ac8edcc682069
+album: I Like Me Better
+artist(s): Lauv
+*****************************
+**********MOVIE INFO*********
+Title: Cars
+Release Year: 2006
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 75%
+Country of Production: USA
+Language: English, Italian, Japanese, Yiddish
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+*****************************
